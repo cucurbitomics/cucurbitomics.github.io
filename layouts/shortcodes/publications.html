@@ -1,0 +1,9 @@
+{{ range .Site.Data.publications }}
+<div class="publication">
+  <h5>{{ .title }}</h5>
+  <p><strong>Authors:</strong> {{ .authors }}</p>
+  <p><strong>Journal:</strong> {{ .journal }}</p>
+  <p><strong>Year:</strong> {{ .year }}</p>
+  <p><strong>DOI:</strong> <a href="https://doi.org/{{ .doi }}">{{ .doi }}</a></p>
+</div>
+{{ end }}
