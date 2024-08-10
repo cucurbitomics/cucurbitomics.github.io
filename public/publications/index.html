@@ -8,7 +8,6 @@
 
 
 
-  <link rel="shortcut icon" href="/images/favicon.png" type="image/png" />
 
 
   <meta name="description" content="Cucurbit genomics and breeding"
@@ -30,13 +29,12 @@
 
 
 
-<link rel="stylesheet" href="/css/style.min.9d226cbddb8d8f223f20056c1be62a503586aa0246bb4ee7f2f5dcf5fcbddbc7.css" type="text/css" integrity="sha256-nSJsvduNjyI/IAVsG&#43;YqUDWGqgJGu07n8vXc9fy928c=" />
+<link rel="stylesheet" href="/css/style.min.78010475ab174bfbb02c34bb27f9fe73f90ec5ac1293260ee312bb9654c76e67.css" type="text/css" integrity="sha256-eAEEdasXS/uwLDS7J/n&#43;c/kOxawSkyYO4xK7llTHbmc=" />
 
 <meta property="og:url" content="http://localhost:1313/publications/">
   <meta property="og:site_name" content="Cucurbitomics">
   <meta property="og:title" content="Publications">
-  <meta property="og:description" content="title: “Resilient Melon Hybrids: Genomic Approaches and Field Trials” authors: “John Doe, Jane Smith, Ahmed Ali” journal: “Plant Science Journal” year: 2023 doi: “10.1000/psj.2023.001” description: “This paper explores the genomic methods used to develop resilient melon hybrids, focusing on field trial outcomes and genetic markers for stress resistance.”
-title: “Specialized Metabolites in Cucurbit Crops: A Genomic Perspective” authors: “Emily White, Michael Brown” journal: “Journal of Agricultural Genomics” year: 2022 doi: “10.">
+  <meta property="og:description" content="{{ range .Site.Data.publications.publications }}">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="og:image" content="http://localhost:1313/images/cover-image.jpg">
@@ -45,14 +43,12 @@ title: “Specialized Metabolites in Cucurbit Crops: A Genomic Perspective” au
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/images/cover-image.jpg">
   <meta name="twitter:title" content="Publications">
-  <meta name="twitter:description" content="title: “Resilient Melon Hybrids: Genomic Approaches and Field Trials” authors: “John Doe, Jane Smith, Ahmed Ali” journal: “Plant Science Journal” year: 2023 doi: “10.1000/psj.2023.001” description: “This paper explores the genomic methods used to develop resilient melon hybrids, focusing on field trial outcomes and genetic markers for stress resistance.”
-title: “Specialized Metabolites in Cucurbit Crops: A Genomic Perspective” authors: “Emily White, Michael Brown” journal: “Journal of Agricultural Genomics” year: 2022 doi: “10.">
+  <meta name="twitter:description" content="{{ range .Site.Data.publications.publications }}">
 
 
   <meta itemprop="name" content="Publications">
-  <meta itemprop="description" content="title: “Resilient Melon Hybrids: Genomic Approaches and Field Trials” authors: “John Doe, Jane Smith, Ahmed Ali” journal: “Plant Science Journal” year: 2023 doi: “10.1000/psj.2023.001” description: “This paper explores the genomic methods used to develop resilient melon hybrids, focusing on field trial outcomes and genetic markers for stress resistance.”
-title: “Specialized Metabolites in Cucurbit Crops: A Genomic Perspective” authors: “Emily White, Michael Brown” journal: “Journal of Agricultural Genomics” year: 2022 doi: “10.">
-  <meta itemprop="wordCount" content="182">
+  <meta itemprop="description" content="{{ range .Site.Data.publications.publications }}">
+  <meta itemprop="wordCount" content="4">
   <meta itemprop="image" content="http://localhost:1313/images/cover-image.jpg">
 
 
@@ -84,40 +80,8 @@ title: “Specialized Metabolites in Cucurbit Crops: A Genomic Perspective” au
       </header>
       <h1 class="post-title">Publications</h1>
       <section class="post-content">
-        <ul>
-<li>
-<p>title: &ldquo;Resilient Melon Hybrids: Genomic Approaches and Field Trials&rdquo;
-authors: &ldquo;John Doe, Jane Smith, Ahmed Ali&rdquo;
-journal: &ldquo;Plant Science Journal&rdquo;
-year: 2023
-doi: &ldquo;10.1000/psj.2023.001&rdquo;
-description: &ldquo;This paper explores the genomic methods used to develop resilient melon hybrids, focusing on field trial outcomes and genetic markers for stress resistance.&rdquo;</p>
-</li>
-<li>
-<p>title: &ldquo;Specialized Metabolites in Cucurbit Crops: A Genomic Perspective&rdquo;
-authors: &ldquo;Emily White, Michael Brown&rdquo;
-journal: &ldquo;Journal of Agricultural Genomics&rdquo;
-year: 2022
-doi: &ldquo;10.1000/jag.2022.012&rdquo;
-description: &ldquo;An in-depth analysis of the genomic underpinnings of specialized metabolite production in cucurbit crops, with implications for crop improvement.&rdquo;</p>
-</li>
-<li>
-<p>title: &ldquo;Advances in Plant Genomics: A Focus on Cucurbitaceae&rdquo;
-authors: &ldquo;Laura Green, David Black&rdquo;
-journal: &ldquo;International Journal of Plant Science&rdquo;
-year: 2021
-doi: &ldquo;10.1000/ijps.2021.045&rdquo;
-description: &ldquo;A review of the latest advancements in plant genomics, specifically within the Cucurbitaceae family, highlighting key research areas and future directions.&rdquo;</p>
-</li>
-<li>
-<p>title: &ldquo;Genomic Resources for Melon Breeding: A New Era&rdquo;
-authors: &ldquo;Anna Red, Richard Blue&rdquo;
-journal: &ldquo;Genomics and Breeding&rdquo;
-year: 2020
-doi: &ldquo;10.1000/gb.2020.008&rdquo;
-description: &ldquo;This publication discusses the development and utilization of genomic resources to enhance melon breeding programs, focusing on hybrid vigor and disease resistance.&rdquo;</p>
-</li>
-</ul>
+        <p>{{ range .Site.Data.publications.publications }}</p>
+<!-- raw HTML omitted -->
 
       </section>
     </article>
@@ -133,7 +97,7 @@ description: &ldquo;This publication discusses the development and utilization o
     
 
     
-      <section class="copyright">© Elad Oren</section>
+      <section class="copyright">Copyright © 2024 Oren Lab All Rights Reserved</section>
     
 
     
