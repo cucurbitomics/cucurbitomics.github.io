@@ -1,7 +1,7 @@
 ---
 title: "Credits"
 weight: 99
-header_menu: true
+header_menu: false
 ---
 Credit to authors of resources used on this page.
 
