@@ -1,17 +1,17 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #ce7e00;
+    --cover-text-color: #000000;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #f2efe8;
-    --highlight-contrast: var(--cover-text-color);
+    --highlight: #000000;
+    --highlight-contrast: #FFFFFF;
     /*inverse colors used for :hover */
-    --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: white;
+    --highlight-inverse: white;
+    --highlight-inverse-contrast: #000000;
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
-    --cover-title-text-shadow: white 0px 0px 7px;
+    --cover-title-text-shadow: white 0px 0px 9px;
 
 
     /* === sticky top/left navigation menus === */
