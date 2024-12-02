@@ -1,0 +1,6 @@
+.left-aligned-img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    max-width: 40%; /* Adjust the width as needed */
+}

@@ -82,8 +82,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "email"
-        value = "eladoren@volcani.agro.gov.il"
-        url = "mailto:eladoren@volcani.agro.gov.il"
+        value = "eladoren@volcani.agri.gov.il"
+        url = "mailto:eladoren@volcani.agri.gov.il"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!

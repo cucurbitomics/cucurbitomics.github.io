@@ -1,0 +1,1370 @@
+[
+	{
+		"id": "http://zotero.org/users/8035441/items/CUTN8TM3",
+		"type": "article-journal",
+		"abstract": "Linking genotype with phenotype is a fundamental goal in biology and\nrequires robust data for both. Recent advances in plant-genome sequencing\nhave expedited comparisons among multiple-related individuals. The\nabundance of structural genomic within-species variation that has been\ndiscovered indicates that a single reference genome cannot represent the\ncomplete sequence diversity of a species, leading to the expansion of the\npan-genome concept. For high-resolution forward genetics, this\nunprecedented access to genomic variation should be paralleled and\nintegrated with phenotypic characterization of genetic diversity. We\ndeveloped a multi-parental framework for trait dissection in melon\n(Cucumis melo), leveraging a novel pan-genome constructed for this highly\nvariable cucurbit crop. A core subset of 25 diverse founders\n(MelonCore25), consisting of 24 accessions from the two widely cultivated\nsubspecies of C. melo, encompassing 12 horticultural groups, and 1 feral\naccession was sequenced using a combination of short- and long-read\ntechnologies, and their genomes were assembled de novo. The construction\nof this melon pan-genome exposed substantial variation in genome size and\nstructure, including detection of ~300 000 structural variants and ~9\nmillion SNPs. A half-diallel derived set of 300 F2 populations,\nrepresenting all possible MelonCore25 parental combinations, was\nconstructed as a framework for trait dissection through integration with\nthe pan-genome. We demonstrate the potential of this unified framework for\ngenetic analysis of various melon traits, including rind color intensity\nand pattern, fruit sugar content, and resistance to fungal diseases. We\nanticipate that utilization of this integrated resource will enhance\ngenetic dissection of important traits and accelerate melon breeding.",
+		"container-title": "Plant J.",
+		"DOI": "10.1111/tpj.16021",
+		"ISSN": "0960-7412",
+		"issue": "6",
+		"license": "All rights reserved",
+		"note": "publisher: Wiley",
+		"page": "1525-1542",
+		"title": "Pan-genome and multi-parental framework for high-resolution trait dissection in melon (Cucumis melo)",
+		"URL": "http://dx.doi.org/10.1111/tpj.16021",
+		"volume": "112",
+		"author": [
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Dafna",
+				"given": "Asaf"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Halperin",
+				"given": "Ilan"
+			},
+			{
+				"family": "Isaacson",
+				"given": "Tal"
+			},
+			{
+				"family": "Elkabetz",
+				"given": "Meital"
+			},
+			{
+				"family": "Meir",
+				"given": "Ayala"
+			},
+			{
+				"family": "Saar",
+				"given": "Uzi"
+			},
+			{
+				"family": "Ohali",
+				"given": "Shachar"
+			},
+			{
+				"family": "La",
+				"given": "Thuy"
+			},
+			{
+				"family": "Romay",
+				"given": "Cinta"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur A"
+			},
+			{
+				"family": "Buckler",
+				"given": "Edward S"
+			},
+			{
+				"family": "Cohen",
+				"given": "Roni"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "Freilich2015",
+		"type": "article-journal",
+		"abstract": "Shiri Freilich and Shery Lev contributed equally to this work. Background Melon (Cucumis melo) fruits exhibit phenotypic diversity in several key quality determinants such as taste, color and aroma. Sucrose, carotenoids and volatiles are recognized as the key compounds shaping the above corresponding traits yet the full network of biochemical events underlying their synthesis have not been comprehensively described. To delineate the cellular processes shaping fruit quality phenotypes, a population of recombinant inbred lines (RIL) was used as a source of phenotypic and genotypic variations. In parallel, ripe fruits were analyzed for both the quantified level of 77 metabolic traits directly associated with fruit quality and for RNA-seq based expression profiles generated for 27,000 unigenes. First, we explored inter-metabolite association patterns; then, we described metabolites versus gene association patterns; finally, we used the correlation-based associations for predicting uncharacterized synthesis pathways. Results Based on metabolite versus metabolite and metabolite versus gene association patterns, we divided metabolites into two key groups: a group including ethylene and aroma determining volatiles whose accumulation patterns are correlated with the expression of genes involved in the glycolysis and TCA cycle pathways; and a group including sucrose and color determining carotenoids whose accumulation levels are correlated with the expression of genes associated with plastid formation. Conclusions The study integrates multiple processes into a genome scale perspective of cellular activity. This lays a foundation for deciphering the role of gene markers associated with the determination of fruit quality traits.",
+		"container-title": "BMC Plant Biology",
+		"DOI": "10.1186/s12870-015-0449-x",
+		"ISSN": "1471-2229",
+		"issue": "1",
+		"license": "All rights reserved",
+		"page": "71",
+		"title": "Systems approach for exploring the intricate associations between sweetness, color and aroma in melon fruits",
+		"URL": "http://www.biomedcentral.com/1471-2229/15/71",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Freilich",
+				"given": "Shiri"
+			},
+			{
+				"family": "Lev",
+				"given": "Shery"
+			},
+			{
+				"family": "Gonda",
+				"given": "Itay"
+			},
+			{
+				"family": "Reuveni",
+				"given": "Eli"
+			},
+			{
+				"family": "Portnoy",
+				"given": "Vitaly"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Lohse",
+				"given": "Marc"
+			},
+			{
+				"family": "Galpaz",
+				"given": "Navot"
+			},
+			{
+				"family": "Bar",
+				"given": "Einat"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Wissotsky",
+				"given": "Guy"
+			},
+			{
+				"family": "Meir",
+				"given": "Ayala"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur"
+			},
+			{
+				"family": "Fei",
+				"given": "Zhangjun"
+			},
+			{
+				"family": "Giovannoni",
+				"given": "James"
+			},
+			{
+				"family": "Lewinsohn",
+				"given": "Efraim"
+			},
+			{
+				"family": "Katzir",
+				"given": "Nurit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					3,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "Levi2016",
+		"type": "article-journal",
+		"abstract": "© 2016, American Society for Horticultural Science. All rights reserved The bitter desert watermelon, Citrullus colocynthis (L.) Schrad is a wild species valuable for biotic and abiotic stress resistance that could be exploited for improving watermelon cultivars [Citrullus lanatus (Thunberg) Matsum & Nakai var. lanatus]. The objective of this study was to survey and identify C. colocynthis accessions displaying resistance to the Papaya ringspot virus-watermelon strain (PRSV-W). Thirty-one accessions of C. colocynthis, collected in Africa, the Middle East, southwest Asia, and India were evaluated for PRSV-W resistance. Of these 31 accessions, 4 U.S. Plant Introduction (PI) accessions, including 525080 (collected in Qena, Egypt) and PI 537277, PI 652554, and Griffin 14201 (collected at the northern Indian desert of Rajasthan and the neighboring region of Punjab, Pakistan) showed high resistance to PRSV-W. Plants of these four resistant PIs were self-pollinated to produce S1 and S2 seeds that continued tomaintain the high levels of PRSV resistance. Since there is a wide genetic distance between watermelon cultivars and C. colocynthis, we performed crosses and backcrosses with watermelon cultivars, including ‘Charleston Gray’ and ‘Sugar Baby’ to produce viable seed that would be useful in the development of genetic populations and in introducing the resistance into watermelon cultivars.",
+		"container-title": "HortScience",
+		"ISSN": "00185345",
+		"issue": "1",
+		"license": "All rights reserved",
+		"page": "4-7",
+		"title": "Resistance to Papaya ringspot virus-watermelon strain (PRSV-W) in the desert watermelon citrullus colocynthis",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Levi",
+				"given": "A."
+			},
+			{
+				"family": "Coffey",
+				"given": "J."
+			},
+			{
+				"family": "Massey",
+				"given": "L."
+			},
+			{
+				"family": "Guner",
+				"given": "N."
+			},
+			{
+				"family": "Oren",
+				"given": "E."
+			},
+			{
+				"family": "Tadmor",
+				"given": "Y."
+			},
+			{
+				"family": "Ling",
+				"given": "K.-S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "Itkin2016",
+		"type": "article-journal",
+		"abstract": "The consumption of sweeteners, natural as well as synthetic sugars, is implicated in an array of modern-day health problems. Therefore, natural nonsugar sweeteners are of increasing interest. We identify here the biosynthetic pathway of the sweet triterpenoid glycoside mogroside V, which has a sweetening strength of 250 times that of sucrose and is derived from mature fruit of luo-han-guo (Siraitia grosvenorii, monk fruit). A whole-genome sequencing of Siraitia, leading to a preliminary draft of the genome, was combined with an extensive transcriptomic analysis of developing fruit. A functional expression survey of nearly 200 candidate genes identified the members of the five enzyme families responsible for the synthesis of mogroside V: squalene epoxidases, triterpenoid synthases, epoxide hydrolases, cytochrome P450s, and UDP-glucosyltransferases. Protein modeling and docking studies corroborated the experimentally proven functional enzyme activities and indicated the order of the metabolic steps in the pathway. A comparison of the genomic organization and expression patterns of these Siraitia genes with the orthologs of other Cucurbitaceae implicates a strikingly coordinated expression of the pathway in the evolution of this species-specific and valuable metabolic pathway. The genomic organization of the pathway genes, syntenously preserved among the Cucurbitaceae, indicates, on the other hand, that gene clustering cannot account for this novel secondary metabolic pathway.",
+		"container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+		"DOI": "10.1073/pnas.1604828113",
+		"ISSN": "1091-6490",
+		"issue": "47",
+		"license": "All rights reserved",
+		"note": "PMID: 27821754",
+		"page": "E7619-E7628",
+		"title": "The biosynthetic pathway of the nonsugar, high-intensity sweetener mogroside V from Siraitia grosvenorii.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/27821754",
+		"volume": "113",
+		"author": [
+			{
+				"family": "Itkin",
+				"given": "Maxim"
+			},
+			{
+				"family": "Davidovich-Rikanati",
+				"given": "Rachel"
+			},
+			{
+				"family": "Cohen",
+				"given": "Shahar"
+			},
+			{
+				"family": "Portnoy",
+				"given": "Vitaly"
+			},
+			{
+				"family": "Doron-Faigenboim",
+				"given": "Adi"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Freilich",
+				"given": "Shiri"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Baranes",
+				"given": "Nadine"
+			},
+			{
+				"family": "Shen",
+				"given": "Shmuel"
+			},
+			{
+				"family": "Petreikov",
+				"given": "Marina"
+			},
+			{
+				"family": "Sertchook",
+				"given": "Rotem"
+			},
+			{
+				"family": "Ben-Dor",
+				"given": "Shifra"
+			},
+			{
+				"family": "Gottlieb",
+				"given": "Hugo"
+			},
+			{
+				"family": "Hernandez",
+				"given": "Alvaro"
+			},
+			{
+				"family": "Nelson",
+				"given": "David R."
+			},
+			{
+				"family": "Paris",
+				"given": "Harry S."
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Burger",
+				"given": "Yosef"
+			},
+			{
+				"family": "Lewinsohn",
+				"given": "Efraim"
+			},
+			{
+				"family": "Katzir",
+				"given": "Nurit"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "Hubner2009",
+		"type": "article-journal",
+		"abstract": "In this study, we present the genetic analysis of a new collection of wild barley (Hordeum spontaneum) using 42 simple sequence repeat (SSR) markers that represent the seven chromosomes. The Barley1K (B1K) infrastructure consists of 1020 accessions collected in a hierarchical sampling mode (HSM) from 51 sites across Israel and represents the wide adaptive niche of the modern barley's ancestor. According to the genetic structure analysis, the sampled sites can be divided into seven groups, and sampled microsites located on opposing slopes or in different soil types did not show significant genetic differentiation. Although the genetic analysis indicates a simple isolation-by-distance model among the populations, examination of the genetic populations' structure with abiotic parameters in an ordination analysis revealed that the combination of elevation, mid-day temperature and rainfall explains a high proportion of the variance in the principal components analysis. Our findings demonstrate that the current populations have therefore been shaped and distinguished by non-selective forces such as migration; however, we suggest that aridity and temperature gradients played major roles as selective forces in the adaptation of wild barley in this part of the Fertile Crescent. This unique collection is a prelude for the investigation of the molecular basis underlying plant adaptation and responsiveness to harsh environments.",
+		"container-title": "Molecular ecology",
+		"DOI": "10.1111/j.1365-294X.2009.04106.x",
+		"ISSN": "1365-294X",
+		"issue": "7",
+		"license": "All rights reserved",
+		"note": "PMID: 19368652\nISBN: 1365-294X",
+		"page": "1523-36",
+		"title": "Strong correlation of wild barley (Hordeum spontaneum) population structure with temperature and precipitation variation.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/19368652",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Hübner",
+				"given": "Sariel"
+			},
+			{
+				"family": "HÖffken",
+				"given": "M."
+			},
+			{
+				"family": "Oren",
+				"given": "E."
+			},
+			{
+				"family": "Haseneyer",
+				"given": "G."
+			},
+			{
+				"family": "Stein",
+				"given": "N."
+			},
+			{
+				"family": "Graner",
+				"given": "A."
+			},
+			{
+				"family": "Schmid",
+				"given": "K."
+			},
+			{
+				"family": "Fridman",
+				"given": "E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2012",
+					3,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "Schlesinger2019",
+		"type": "article-journal",
+		"abstract": "Mandrakes (Mandragora spp., Solanaceae) are known to contain tropane alkaloids and have been used since antiquity in traditional medicine. Tropane alkaloids such as scopolamine and hyoscyamine are used in modern medicine to treat pain, motion sickness, as eye pupil dilators and antidotes against organo-phosphate poisoning. Hyoscyamine is converted to 6β-hydroxyhyoscyamine (anisodamine) and scopolamine by hyoscyamine 6β-hydroxylase (H6H), a 2-oxoglutarate dependent dioxygenase. We describe here a marked chemo-diversity in the tropane alkaloid content in Mandragora spp. M. officinarum and M. turcomanica lack anisodamine and scopolamine but display up to 10 fold higher hyoscyamine levels as compared with M. autumnalis. Transcriptomic analyses revealed that H6H is highly conserved among scopolamine-producing Solanaceae. MoH6H present in M. officinarum differs in several amino acid residues including a homozygotic mutation in the substrate binding region of the protein and its prevalence among accessions was confirmed by Cleaved-Amplified-Polymorphic-Sequence analyses. Functional expression revealed that MaH6H, a gene isolated from M. autumnalis encodes an active H6H enzyme while the MoH6H sequence isolated from M. officinarum was functionally inactive. A single G to T mutation in nucleotide 663 of MoH6H is associated with the lack of anisodamine and scopolamine in M. officinalis.",
+		"container-title": "Plant Science",
+		"DOI": "10.1016/J.PLANTSCI.2019.03.013",
+		"ISSN": "0168-9452",
+		"license": "All rights reserved",
+		"note": "publisher: Elsevier",
+		"page": "301-310",
+		"title": "Alkaloid chemodiversity in Mandragora spp. is associated with loss-of-functionality of MoH6H, a hyoscyamine 6β-hydroxylase gene",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S016894521831478X?utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_medium=email&utm_dgroup=Email1Publishing&utm_acid=429162915&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&CMX_ID=&utm_in=DM492066&utm_source=AC_30",
+		"volume": "283",
+		"author": [
+			{
+				"family": "Schlesinger",
+				"given": "Daniel"
+			},
+			{
+				"family": "Davidovich Rikanati",
+				"given": "Rachel"
+			},
+			{
+				"family": "Volis",
+				"given": "Sergei"
+			},
+			{
+				"family": "Faigenboim",
+				"given": "Adi"
+			},
+			{
+				"family": "Vendramin",
+				"given": "Vera"
+			},
+			{
+				"family": "Cattonaro",
+				"given": "Federica"
+			},
+			{
+				"family": "Hooper",
+				"given": "Matthew"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Taylor",
+				"given": "Mark"
+			},
+			{
+				"family": "Sitrit",
+				"given": "Yaron"
+			},
+			{
+				"family": "Inbar",
+				"given": "Moshe"
+			},
+			{
+				"family": "Lewinsohn",
+				"given": "Efraim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Zhao2019",
+		"type": "article-journal",
+		"container-title": "Nature Genetics",
+		"DOI": "10.1038/s41588-019-0522-8",
+		"ISSN": "1061-4036",
+		"issue": "11",
+		"license": "All rights reserved",
+		"page": "1607-1615",
+		"title": "A comprehensive genome variation map of melon identifies multiple domestication events and loci influencing agronomic traits",
+		"URL": "http://www.nature.com/articles/s41588-019-0522-8",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Guangwei"
+			},
+			{
+				"family": "Lian",
+				"given": "Qun"
+			},
+			{
+				"family": "Zhang",
+				"given": "Zhonghua"
+			},
+			{
+				"family": "Fu",
+				"given": "Qiushi"
+			},
+			{
+				"family": "He",
+				"given": "Yuhua"
+			},
+			{
+				"family": "Ma",
+				"given": "Shuangwu"
+			},
+			{
+				"family": "Ruggieri",
+				"given": "Valentino"
+			},
+			{
+				"family": "Monforte",
+				"given": "Antonio J."
+			},
+			{
+				"family": "Wang",
+				"given": "Pingyong"
+			},
+			{
+				"family": "Julca",
+				"given": "Irene"
+			},
+			{
+				"family": "Wang",
+				"given": "Huaisong"
+			},
+			{
+				"family": "Liu",
+				"given": "Junpu"
+			},
+			{
+				"family": "Xu",
+				"given": "Yongyang"
+			},
+			{
+				"family": "Wang",
+				"given": "Runze"
+			},
+			{
+				"family": "Ji",
+				"given": "Jiabing"
+			},
+			{
+				"family": "Xu",
+				"given": "Zhihong"
+			},
+			{
+				"family": "Kong",
+				"given": "Weihu"
+			},
+			{
+				"family": "Zhong",
+				"given": "Yang"
+			},
+			{
+				"family": "Shang",
+				"given": "Jianli"
+			},
+			{
+				"family": "Pereira",
+				"given": "Lara"
+			},
+			{
+				"family": "Argyris",
+				"given": "Jason"
+			},
+			{
+				"family": "Zhang",
+				"given": "Jian"
+			},
+			{
+				"family": "Mayobre",
+				"given": "Carlos"
+			},
+			{
+				"family": "Pujol",
+				"given": "Marta"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Ou",
+				"given": "Diandian"
+			},
+			{
+				"family": "Wang",
+				"given": "Jiming"
+			},
+			{
+				"family": "Sun",
+				"given": "Dexi"
+			},
+			{
+				"family": "Zhao",
+				"given": "Shengjie"
+			},
+			{
+				"family": "Zhu",
+				"given": "Yingchun"
+			},
+			{
+				"family": "Li",
+				"given": "Na"
+			},
+			{
+				"family": "Katzir",
+				"given": "Nurit"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			},
+			{
+				"family": "Dogimont",
+				"given": "Catherine"
+			},
+			{
+				"family": "Schaefer",
+				"given": "Hanno"
+			},
+			{
+				"family": "Fan",
+				"given": "Wei"
+			},
+			{
+				"family": "Bendahmane",
+				"given": "Abdelhafid"
+			},
+			{
+				"family": "Fei",
+				"given": "Zhangjun"
+			},
+			{
+				"family": "Pitrat",
+				"given": "Michel"
+			},
+			{
+				"family": "Gabaldón",
+				"given": "Toni"
+			},
+			{
+				"family": "Lin",
+				"given": "Tao"
+			},
+			{
+				"family": "Garcia-Mas",
+				"given": "Jordi"
+			},
+			{
+				"family": "Xu",
+				"given": "Yongyang"
+			},
+			{
+				"family": "Huang",
+				"given": "Sanwen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Oren2020",
+		"type": "article-journal",
+		"container-title": "Theoretical and Applied Genetics",
+		"DOI": "10.1007/s00122-020-03567-3",
+		"ISSN": "0040-5752",
+		"issue": "6",
+		"license": "All rights reserved",
+		"note": "publisher: Springer Berlin Heidelberg\nISBN: 0012202003567",
+		"page": "1927-1945",
+		"title": "High-density NGS-based map construction and genetic dissection of fruit shape and rind netting in Cucumis melo",
+		"URL": "https://doi.org/10.1007/s00122-020-03567-3",
+		"volume": "133",
+		"author": [
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Dafna",
+				"given": "Asaf"
+			},
+			{
+				"family": "Meir",
+				"given": "Ayala"
+			},
+			{
+				"family": "Kumar",
+				"given": "Ravindra"
+			},
+			{
+				"family": "Katzir",
+				"given": "Nurit"
+			},
+			{
+				"family": "Elkind",
+				"given": "Yonatan"
+			},
+			{
+				"family": "Freilich",
+				"given": "Shiri"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur A."
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "Moing2020",
+		"type": "article-journal",
+		"abstract": "The broad variability of Cucumis melo (melon, Cucurbitaceae) presents a challenge to conventional classification and organization within the species. To shed further light on the infraspecific relationships within C. melo, we compared genotypic and metabolomic similarities among 44 accessions representative of most of the cultivar-groups. Genotyping-by-sequencing (GBS) provided over 20,000 single-nucleotide polymorphisms (SNPs). Metabolomics data of the mature fruit flesh and rind provided over 80,000 metabolomic and elemental features via an orchestra of six complementary metabolomic platforms. These technologies probed polar, semi-polar, and non-polar metabolite fractions as well as a set of mineral elements and included both flavor- and taste-relevant volatile and non-volatile metabolites. Together these results enabled an estimate of “metabolomic/elemental distance” and its correlation with the genetic GBS distance of melon accessions. This study indicates that extensive and non-targeted metabolomics/elemental characterization produced classifications that strongly, but not completely, reflect the current and extensive genetic classification. Certain melon Groups, such as Inodorous, clustered in parallel with the genetic classifications while other genome to metabolome/element associations proved less clear. We suggest that the combined genomic, metabolic, and element data reflect the extensive sexual compatibility among melon accessions and the breeding history that has, for example, targeted metabolic quality traits, such as taste and flavor.",
+		"container-title": "Metabolites",
+		"DOI": "10.3390/metabo10030121",
+		"ISSN": "2218-1989",
+		"issue": "3",
+		"license": "All rights reserved",
+		"note": "publisher: Multidisciplinary Digital Publishing Institute",
+		"page": "121",
+		"title": "Comparative Metabolomics and Molecular Phylogenetics of Melon (Cucumis melo, Cucurbitaceae) Biodiversity",
+		"URL": "https://www.mdpi.com/2218-1989/10/3/121",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Moing",
+				"given": "Annick"
+			},
+			{
+				"family": "Allwood",
+				"given": "J. William"
+			},
+			{
+				"family": "Aharoni",
+				"given": "Asaph"
+			},
+			{
+				"family": "Baker",
+				"given": "John"
+			},
+			{
+				"family": "Beale",
+				"given": "Michael H."
+			},
+			{
+				"family": "Ben-Dor",
+				"given": "Shifra"
+			},
+			{
+				"family": "Biais",
+				"given": "Benoît"
+			},
+			{
+				"family": "Brigante",
+				"given": "Federico"
+			},
+			{
+				"family": "Burger",
+				"given": "Yosef"
+			},
+			{
+				"family": "Deborde",
+				"given": "Catherine"
+			},
+			{
+				"family": "Erban",
+				"given": "Alexander"
+			},
+			{
+				"family": "Faigenboim",
+				"given": "Adi"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			},
+			{
+				"family": "Goodacre",
+				"given": "Royston"
+			},
+			{
+				"family": "Hansen",
+				"given": "Thomas H."
+			},
+			{
+				"family": "Jacob",
+				"given": "Daniel"
+			},
+			{
+				"family": "Katzir",
+				"given": "Nurit"
+			},
+			{
+				"family": "Kopka",
+				"given": "Joachim"
+			},
+			{
+				"family": "Lewinsohn",
+				"given": "Efraim"
+			},
+			{
+				"family": "Maucourt",
+				"given": "Mickael"
+			},
+			{
+				"family": "Meir",
+				"given": "Sagit"
+			},
+			{
+				"family": "Miller",
+				"given": "Sonia"
+			},
+			{
+				"family": "Mumm",
+				"given": "Roland"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Paris",
+				"given": "Harry S."
+			},
+			{
+				"family": "Rogachev",
+				"given": "Ilana"
+			},
+			{
+				"family": "Rolin",
+				"given": "Dominique"
+			},
+			{
+				"family": "Saar",
+				"given": "Uzi"
+			},
+			{
+				"family": "Schjoerring",
+				"given": "Jan K."
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Vos",
+				"given": "Ric C.H.",
+				"non-dropping-particle": "de"
+			},
+			{
+				"family": "Ward",
+				"given": "Jane L."
+			},
+			{
+				"family": "Yeselson",
+				"given": "Elena"
+			},
+			{
+				"family": "Hall",
+				"given": "Robert D."
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "Oren2019",
+		"type": "article-journal",
+		"abstract": "Color and pigment contents are important aspects of fruit quality and consumer acceptance of cucurbit crops. Here, we describe the independent mapping and cloning of a common causative APRR2 gene regulating pigment accumulation in melon and watermelon. We initially show that the APRR2 transcription factor is causative for the qualitative difference between dark and light green rind in both crops. Further analyses establish the link between sequence or expression level variations in the CmAPRR2 gene and pigment content in the rind and flesh of mature melon fruits. A genome-wide association study (GWAS) of young fruit rind color in a panel composed of 177 diverse melon accessions did not result in any significant association, leading to an earlier assumption that multiple genes are involved in shaping the overall phenotypic variation in this trait. Through resequencing of 25 representative accessions and allelism tests between light rind accessions, we show that multiple independent single nucleotide polymorphisms in the CmAPRR2 gene are causative of the light rind phenotype. The multi-haplotypic nature of this gene explains the lack of detection power obtained through genotyping by sequencing-based GWAS and confirms the pivotal role of this gene in shaping fruit color variation in melon. This study demonstrates the power of combining bi- and multi-allelic designs with deep sequencing, to resolve lack of power due to high haplotypic diversity and low allele frequencies. Due to its central role and broad effect on pigment accumulation in fruits, the APRR2 gene is an attractive target for carotenoid bio-fortification of cucurbit crops.",
+		"container-title": "Journal of Experimental Botany",
+		"DOI": "10.1093/jxb/erz182",
+		"ISSN": "14602431",
+		"issue": "15",
+		"license": "All rights reserved",
+		"note": "PMID: 31175368",
+		"page": "3781-3794",
+		"title": "The multi-allelic APRR2 gene is associated with fruit pigment accumulation in melon and watermelon",
+		"URL": "https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/erz182/5479351",
+		"volume": "70",
+		"author": [
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Vexler",
+				"given": "Lea"
+			},
+			{
+				"family": "Dafna",
+				"given": "Asaf"
+			},
+			{
+				"family": "Meir",
+				"given": "Ayala"
+			},
+			{
+				"family": "Faigenboim",
+				"given": "Adi"
+			},
+			{
+				"family": "Kenigswald",
+				"given": "Merav"
+			},
+			{
+				"family": "Portnoy",
+				"given": "Vitaly"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur A."
+			},
+			{
+				"family": "Levi",
+				"given": "Amnon"
+			},
+			{
+				"family": "Buckler",
+				"given": "Edward S."
+			},
+			{
+				"family": "Katzir",
+				"given": "Nurit"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					8,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "Chayut2021",
+		"type": "article-journal",
+		"abstract": "Carotenoids, such as β-carotene, accumulate in chromoplasts of various fleshy fruits, awarding them with colors, aromas, and nutrients. The Orange ( CmOr ) gene controls β-carotene accumulation in melon fruit by posttranslationally enhancing carotenogenesis and repressing β-carotene turnover in chromoplasts. Carotenoid isomerase (CRTISO) isomerizes yellow prolycopene into red lycopene, a prerequisite for further metabolism into β-carotene. We comparatively analyzed the developing fruit transcriptomes of orange-colored melon and its two isogenic EMS-induced mutants, low-β ( Cmor ) and yofi ( Cmcrtiso ). The Cmor mutation in low-β caused a major transcriptomic change in the mature fruit. In contrast, the Cmcrtiso mutation in yofi significantly changed the transcriptome only in early fruit developmental stages. These findings indicate that melon fruit transcriptome is primarily altered by changes in carotenoid metabolic flux and plastid conversion, but minimally by carotenoid composition in the ripe fruit. Clustering of the differentially expressed genes into functional groups revealed an association between fruit carotenoid metabolic flux with the maintenance of the photosynthetic apparatus in fruit chloroplasts. Moreover, large numbers of thylakoid localized photosynthetic genes were differentially expressed in low-β . CmOR family proteins were found to physically interact with light-harvesting chlorophyll a–b binding proteins, suggesting a new role of CmOR for chloroplast maintenance in melon fruit. This study brings more insights into the cellular and metabolic processes associated with fruit carotenoid accumulation in melon fruit and reveals a new maintenance mechanism of the photosynthetic apparatus for plastid development.",
+		"container-title": "Horticulture Research",
+		"DOI": "10.1038/s41438-021-00547-6",
+		"ISSN": "2662-6810",
+		"issue": "1",
+		"license": "All rights reserved",
+		"page": "112",
+		"title": "Comparative transcriptome analyses shed light on carotenoid production and plastid development in melon fruit",
+		"URL": "http://www.nature.com/articles/s41438-021-00547-6",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Chayut",
+				"given": "Noam"
+			},
+			{
+				"family": "Yuan",
+				"given": "Hui"
+			},
+			{
+				"family": "Saar",
+				"given": "Yuval"
+			},
+			{
+				"family": "Zheng",
+				"given": "Yi"
+			},
+			{
+				"family": "Sun",
+				"given": "Tianhu"
+			},
+			{
+				"family": "Zhou",
+				"given": "Xuesong"
+			},
+			{
+				"family": "Hermanns",
+				"given": "Anna"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Faigenboim",
+				"given": "Adi"
+			},
+			{
+				"family": "Hui",
+				"given": "Maixia"
+			},
+			{
+				"family": "Fei",
+				"given": "Zhangjun"
+			},
+			{
+				"family": "Mazourek",
+				"given": "Michael"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Li",
+				"given": "Li"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8035441/items/4AU66L3Z",
+		"type": "article-journal",
+		"abstract": "Heterosis, the superiority of hybrids over their parents, is a major genetic force associated with plant fitness and crop yield enhancement. We investigated root-mediated yield heterosis in melons (Cucumis melo) by characterizing a common variety grafted onto 190 hybrid rootstocks, resulting from crossing 20 diverse inbreds in a diallel-mating scheme. Hybrid rootstocks improved yield by more than 40% compared with their parents, and the best hybrid yield outperformed the reference commercial variety by 65% under both optimal and minimal irrigation treatments. To characterize the genetics of underground heterosis we conducted whole genome re-sequencing of the 20 founder lines, and showed that parental genetic distance was no predictor for the level of heterosis. Through inference of the 190 hybrid genotypes from their parental genomes, followed by genome-wide association analysis, we mapped multiple quantitative trait loci for root-mediated yield. Yield enhancement of the four best-performing hybrid rootstocks was validated in multiple experiments with four different scion varieties. Our grafting approach is complementary to the common roots genetic approach that focuses mainly on variation in root system architecture, and is a step towards discovery of candidate genes involved in root function and yield enhancement.",
+		"container-title": "Journal of Experimental Botany",
+		"DOI": "10.1093/jxb/erab219",
+		"ISSN": "14602431",
+		"issue": "18",
+		"license": "All rights reserved",
+		"page": "6205-6218",
+		"title": "Underground heterosis for yield improvement in melon",
+		"URL": "https://academic.oup.com/jxb/article/72/18/6205/6276453",
+		"volume": "72",
+		"author": [
+			{
+				"family": "Dafna",
+				"given": "Asaf"
+			},
+			{
+				"family": "Halperin",
+				"given": "Ilan"
+			},
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Isaacson",
+				"given": "Tal"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Meir",
+				"given": "Ayala"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur A"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Buckler",
+				"given": "Edward S"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			}
+		],
+		"editor": [
+			{
+				"family": "Costa",
+				"given": "Fabrizio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8035441/items/3G5ZU6EG",
+		"type": "document",
+		"license": "All rights reserved",
+		"publisher": "Google Patents",
+		"source": "Google Scholar",
+		"title": "Methods of producing mogrosides and compositions comprising same and uses thereof",
+		"author": [
+			{
+				"family": "Itkin",
+				"given": "Maxim"
+			},
+			{
+				"family": "Davidovich-rikanati",
+				"given": "Rachel"
+			},
+			{
+				"family": "Cohen",
+				"given": "Shahar"
+			},
+			{
+				"family": "Portnoy",
+				"given": "Vitaly"
+			},
+			{
+				"family": "Doron-faigenboim",
+				"given": "Adi"
+			},
+			{
+				"family": "Petreikov",
+				"given": "Marina"
+			},
+			{
+				"family": "Shmuel",
+				"given": "SHEN"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Burger",
+				"given": "Yosef"
+			},
+			{
+				"family": "Lewinsohn",
+				"given": "Efraim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/8035441/items/YE6CV7IF",
+		"type": "article-journal",
+		"abstract": "Earliness and ripening behavior are important attributes of fruits on and off the vine, and affect quality and preference of both growers and consumers. Fruit ripening is a complex physiological process that involves metabolic shifts affecting fruit color, firmness, and aroma production. Melon is a promising model crop for the study of fruit ripening, as the full spectrum of climacteric behavior is represented across the natural variation. Using Recombinant Inbred Lines (RILs) population derived from the parental lines “Dulce” (reticulatus, climacteric) and “Tam Dew” (inodorus, non-climacteric) that vary in earliness and ripening traits, we mapped QTLs for ethylene emission, fruit firmness and days to flowering and maturity. To further annotate the main QTL intervals and identify candidate genes, we used Oxford Nanopore long-read sequencing in combination with Illumina short-read resequencing, to assemble the parental genomes de-novo. In addition to 2.5 million genome-wide SNPs and short InDels detected between the parents, we also highlight here the structural variation between these lines and the reference melon genome. Through systematic multi-layered prioritization process, we identified 18 potential polymorphisms in candidate genes within multi-trait QTLs. The associations of selected SNPs with earliness and ripening traits were further validated across a panel of 177 diverse melon accessions and across a diallel population of 190 F1 hybrids derived from a core subset of 20 diverse parents. The combination of advanced genomic tools with diverse germplasm and targeted mapping populations is demonstrated as a way to leverage forward genetics strategies to dissect complex horticulturally important traits.",
+		"container-title": "Horticulture Research",
+		"DOI": "10.1093/hr/uhab081",
+		"ISSN": "2052-7276",
+		"journalAbbreviation": "Horticulture Research",
+		"license": "All rights reserved",
+		"page": "uhab081",
+		"source": "Silverchair",
+		"title": "QTL mapping and genomic analyses of earliness and fruit ripening traits in a melon recombinant inbred lines population supported by de novo assembly of their parental genomes",
+		"URL": "https://doi.org/10.1093/hr/uhab081",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Oren",
+				"given": "Elad"
+			},
+			{
+				"family": "Tzuri",
+				"given": "Galil"
+			},
+			{
+				"family": "Dafna",
+				"given": "Asaf"
+			},
+			{
+				"family": "Rees",
+				"given": "Evan R"
+			},
+			{
+				"family": "Song",
+				"given": "Baoxing"
+			},
+			{
+				"family": "Freilich",
+				"given": "Shiri"
+			},
+			{
+				"family": "Elkind",
+				"given": "Yonatan"
+			},
+			{
+				"family": "Isaacson",
+				"given": "Tal"
+			},
+			{
+				"family": "Schaffer",
+				"given": "Arthur A"
+			},
+			{
+				"family": "Tadmor",
+				"given": "Yaakov"
+			},
+			{
+				"family": "Burger",
+				"given": "Joseph"
+			},
+			{
+				"family": "Buckler",
+				"given": "Edward S"
+			},
+			{
+				"family": "Gur",
+				"given": "Amit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					6,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					5
+				]
+			]
+		}
+	}
+]
