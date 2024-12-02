@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-Our primary goal is to develop resilient and nutritious cucurbit cultivars by leveraging genomic approaches and our extensive germplasm collection. We aim to bridge traditional breeding methods with innovative approaches to accelerate crop improvement and address global agricultural challenges."
+Our primary goal is to develop resilient and nutritious cucurbit cultivars by leveraging genomic approaches and our extensive germplasm collection. We aim to bridge traditional breeding methods with innovative approaches to accelerate crop improvement and address global agricultural challenges.
 
 ---
 
