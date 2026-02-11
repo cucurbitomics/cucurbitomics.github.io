@@ -45,3 +45,9 @@
 <!--{{ range seq 9 4 }}{{ $size := pow 2 . }}{{ $file := replace "images/favicon-##x##.png" "##" $size }}{{ with resources.Get $file }}
 <link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end }}{{ end }}
 -->
+
+<style>
+img[alt="Volcani Institute"] {
+  max-width: 50%;
+}
+</style>
