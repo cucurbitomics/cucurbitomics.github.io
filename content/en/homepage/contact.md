@@ -6,3 +6,6 @@ header_menu: true
 
 {{<contact_list>}}
 
+{{< center >}}
+![Volcani Institute](/images/Volcani_English.svg)
+{{< /center >}}
