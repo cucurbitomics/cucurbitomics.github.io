@@ -6,6 +6,8 @@ header_menu: true
 
 {{<contact_list>}}
 
-{{% center %}}
-![Volcani Institute](/images/Volcani_English.svg)
+{{< center >}}
+<a href="https://www.agri.gov.il/en/home/" target="_blank">
+  <img src="/images/Volcani_English.svg" alt="Volcani Institute" style="max-width: 50%;">
+</a>
 {{< /center >}}
