@@ -24,6 +24,5 @@ Our primary goal is to develop resilient and nutritious cucurbit cultivars by le
 
 ##### *Advanced Genomic Selection*
 - Can DNA language models be effectively applied to genomic selection (GS) in cucurbits?
-- How do we optimize GS for complex polygenic traits, like speciliazed metabolites (e.g. aromas)?
-- Will GS approaches enhance breeding cultivars compared to current apporaches?
-
+- How do we optimize GS for complex polygenic traits, like specialized metabolites (e.g. aromas)?
+- Will GS approaches enhance breeding cultivars compared to current approaches?
