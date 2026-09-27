@@ -21,6 +21,6 @@ title: "Team"
 
 **Sami Grifat** - Field Technician
 
-{{< leftimg src="/images/Emilly_Draru.jpg" alt="Emilly_Draru" width="250px" >}}
+{{< leftimg src="/images/Emilly_Draru.jpg" alt="Emilly Draru" width="250px" >}}
 
 **Emily Draru** - PhD Student
