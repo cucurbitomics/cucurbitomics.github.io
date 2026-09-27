@@ -1,0 +1,38 @@
+{{- $groups := slice
+  (dict "key" "staff" "title" "PI & Staff")
+  (dict "key" "students" "title" "Students")
+  (dict "key" "alumni" "title" "Alumni") -}}
+<style>
+.team-group h3 { margin: 2rem 0 1rem; }
+.team-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.5rem; }
+.team-card { text-align: center; }
+.team-card img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; }
+.team-card .team-name { font-weight: bold; margin-top: .6rem; }
+.team-card .team-role { font-style: italic; }
+.team-card .team-topic { font-size: .9em; margin-top: .3rem; }
+.team-card .team-links a { margin: 0 .3rem; font-size: .9em; }
+</style>
+{{- range $groups }}
+  {{- $people := index site.Data.team .key }}
+  {{- if $people }}
+<div class="team-group">
+  <h3>{{ .title }}</h3>
+  <div class="team-grid">
+    {{- range $p := $people }}
+    <div class="team-card">
+      {{- with $p.photo }}<img src="/images/{{ . }}" alt="{{ $p.name }}" loading="lazy">{{ end }}
+      <div class="team-name">{{ .name }}</div>
+      <div class="team-role">{{ .role }}</div>
+      {{- with .topic }}<div class="team-topic">{{ . }}</div>{{ end }}
+      {{- if or .email .scholar }}
+      <div class="team-links">
+        {{- with .email }}<a href="mailto:{{ . }}">Email</a>{{ end }}
+        {{- with .scholar }}<a href="{{ . }}" target="_blank" rel="noopener">Scholar</a>{{ end }}
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</div>
+  {{- end }}
+{{- end }}

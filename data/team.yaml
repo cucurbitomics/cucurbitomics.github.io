@@ -1,0 +1,28 @@
+# Team members, shown on the Team page in this order.
+# To add someone: copy a block, edit it, and put their photo in static/images/.
+# Optional fields (topic, email, scholar) can be left out.
+# When someone leaves, move their block to "alumni".
+
+staff:
+  - name: Elad Oren
+    role: Principal Investigator
+    photo: Elad.jpg
+    email: eladoren@volcani.agri.gov.il
+  - name: Uzi Sa'ar
+    role: Assistant Breeder
+    photo: Uzi_Saar.jpeg
+  - name: Shachar Ohali
+    role: Lab Manager
+    photo: Shachar_Ohali.jpg
+  - name: Sami Grifat
+    role: Field Technician
+    photo: Sami_Grifat.jpg
+
+students:
+  - name: Emilly Draru
+    role: PhD Student
+    photo: Emilly_Draru.jpg
+    topic: Genetic regulation of melon aroma
+    # scholar: https://scholar.google.com/citations?user=XXXX
+
+alumni: []
